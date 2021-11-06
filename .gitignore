@@ -1,5 +1,5 @@
 # local .terrafrom dir
-.terrafrom/*
+.terraform/*
 
 # tf local state
 *.tfstate
