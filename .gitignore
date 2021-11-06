@@ -1,0 +1,9 @@
+# local .terrafrom dir
+.terrafrom/*
+
+# tf local state
+*.tfstate
+*.tfstate.*
+
+# tf var files
+*.tfvars
