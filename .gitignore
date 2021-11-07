@@ -7,3 +7,7 @@
 
 # tf var files
 *.tfvars
+
+#log
+
+crach.log
